@@ -1,4 +1,8 @@
 package Logic;
 
-public class NetController {
+import Data.ICameraRepository;
+import Data.ICurrentTraficRepository;
+import Data.IRoadsRepository;
+
+public class NetController implements IRoadsRepository, ICurrentTraficRepository, ICameraRepository {
 }

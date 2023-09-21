@@ -1,4 +1,4 @@
 package View;
 
-public class UI {
+public interface UI {
 }

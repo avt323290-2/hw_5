@@ -1,4 +1,6 @@
 package Logic;
 
-public class TripController {
+import Data.ITripHistory;
+
+public class TripController implements ITripHistory {
 }

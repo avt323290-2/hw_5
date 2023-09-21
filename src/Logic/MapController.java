@@ -1,4 +1,6 @@
 package Logic;
 
-public class MapController {
+import Data.ICityObjectsRepository;
+
+public class MapController implements ICityObjectsRepository {
 }

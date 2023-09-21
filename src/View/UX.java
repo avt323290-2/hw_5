@@ -1,4 +1,4 @@
 package View;
 
-public class UX {
+public interface UX {
 }
